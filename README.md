@@ -1,6 +1,6 @@
 # 🖥️ **Hareesh Mynapalli - Data Analyst Portfolio**
 
-Welcome to my GitHub profile! I'm a passionate Data Analyst with expertise in **Power BI**, **Python**, **SQL**, **R**, and **Excel**. I specialize in creating interactive dashboards, data analysis, and insights-driven solutions.
+Welcome to my GitHub profile! I'm a passionate Data Analyst with expertise in **Power BI**, **Python**, **SQL**, **Tableau**, and **Excel**. I specialize in creating interactive dashboards, data analysis, and insights-driven solutions.
 
 ---
 
@@ -10,7 +10,7 @@ I have hands-on experience with the following tools and technologies:
 - Power BI  
 - Python  
 - SQL  
-- R  
+- Tableau  
 - Excel  
 
 ---
@@ -47,17 +47,12 @@ Here are some of the certifications I've earned:
 ---
 
 ### 🌐 **Connect with Me**
-- [LinkedIn](https://www.linkedin.com/in/hareeshmynapalli)
+- [LinkedIn](https://www.linkedin.com/in/hareesh-m-695826232/)
 - [Email](mailto:hareeshmynapallirps@gmail.com)
 
 ---
 
 
-
-### 📝 **Fun Fact**  
-When I'm not analyzing data, I'm exploring new tech trends, playing chess, and contributing to open-source projects.
-
----
 
 <p align="center">
   <i>Thanks for visiting my profile!</i>  
