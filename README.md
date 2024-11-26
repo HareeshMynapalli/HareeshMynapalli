@@ -9,6 +9,13 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 - 💼 Aspiring Data Analyst
 - 🎓 Bachelor's in Computer Science 
 
+## Achievements & Certifications
+
+- **Data Analyst Certification** - [View Credentials](https://drive.google.com/file/d/1tK2CbMJvtSeDaG8Vxto5LaP_2FtA__IU/view?usp=drive_link)
+- **PwC Switzerland Power BI** - [View Credentials](https://drive.google.com/file/d/1Gj69Za7nqAJEHfSB6XYX5QprSRzuzviO/view?usp=sharing)
+- **Data Analyst Intern** - [View Credentials](https://drive.google.com/file/d/1cwGOGdjJ-cg7uqWsPdYFzJ6FPJJj7isr/view?usp=sharing)
+
+
 ## Tools and Languages
 
 - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
