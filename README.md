@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 - [Amazon Sales Dashboard](https://github.com/HareeshMynapalli/Amazon-Sales-Dashboard.git): Conducted a data-driven sales analysis for Amazon using Power BI, leveraging DAX and Power Query to create interactive dashboards. The analysis tracked sales metrics, identified trends, segmented customers, and forecasted future performance to support strategic decision-making.  
 - [Insurance Weekly Branch Report](https://github.com/HareeshMynapalli/Insurance-Weekly-Branch-Report.git): Designed and developed a branch performance dashboard using Excel, Tableau, and Power BI. The report included key metrics like invoice count, cross-sell targets, stage funnel analysis, and conversion ratios. SQL-based validation ensured data accuracy, supporting strategic decisions at both corporate and branch levels.
-
+- [CRM Dashboard](https://github.com/HareeshMynapalli/CRM-Project): Conducted a data-driven sales analysis for Amazon using Power BI, leveraging DAX and Power Query to develop interactive dashboards that tracked sales metrics, identified trends, segmented customers, and forecasted future performance to support strategic decision-making.
 
 ## Let's Connect!
 
